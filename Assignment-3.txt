@@ -1,0 +1,32 @@
+Assignment-3
+1. Shortcut Emmet Used to Create Boilerplate of HTML:
+       Html:5,!,Doc
+
+2. What is DOCTYPE in Html?
+      <!DOCTYPE html> is a declaration at the very beginning of an HTML document.
+      It is not an HTML tag.
+      It provides the basic structure of HTML.
+
+3. What is Void Element and Example for Void Elements?
+     Void elements are self-closing tags.
+     Example: <br/>, <img/>, <input/>.
+
+4. What is Different Element and Attributes?
+     Element: Represents the structure and content of the web page. Example: <h1>, 
+<img/>, <a>, <p>.
+     Attribute: Provides additional information about elements. Example: src, 
+height, width, href.
+
+5. What is Html Entries and Why is it need in HTML?
+    HTML entities represent special characters.
+    They are needed for inserting special characters into your webpage.
+    Special characters such as:
+    © copyright: &copy;, &#169
+    ® trademark: &reg;, &#174
+
+6. What are meta tag and why is it used?
+    Provides metadata.
+    It is used for SEO (Search Engine Optimization).
+
+7. What is the best way to add images in Website?
+   CDN (Content Delivery Network) is the best way to add images in a website
